@@ -2,8 +2,15 @@ package org.example;
 
 public class Edabit {
 
-public static void javaHowEdabitWorks() {
-    System.out.println('return True;');
+public static boolean javaHowEdabitWorks() {
+        return true;
 }
+
+    public class SumOfTwoNumbers {
+        public static int sum(int a, int b) {
+            return a + b;
+        }
+
+        }
 }
 
